@@ -1,8 +1,8 @@
 # Liste des sujets CRPE français 2021-2026
 
 ## 1. Sujets 2021
-1. 2021-crpe-externe-francais.docx
-2. 2021-crpe-externe-special-lr-francais.docx
+1. 2021-crpe-externe-francais.docx : https://github.com/mecbil/Sujet-CRPE-Francais/blob/master/Sujets%202021/2021-crpe-externe-francais.docx
+2. 2021-crpe-externe-special-lr-francais.docx : https://github.com/mecbil/Sujet-CRPE-Francais/blob/master/Sujets%202021/2021-crpe-externe-special-lr-francais.docx
 
 ## 2. Sujets 2022
 1. 2022-crpe-externe-francais.docx
